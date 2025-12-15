@@ -15,7 +15,7 @@
 
 ## 🧩 FlowChart
 
-![걸음 수 합산 플로우차트](images/flowchart.png)
+![플로우차트 2주차 실습3](https://github.com/user-attachments/assets/7137e723-8f6c-42d2-9f26-a4f239b9c933)
 
 ---
 
